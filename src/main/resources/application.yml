@@ -15,7 +15,7 @@ spring:
 
 application:
   bot:
-    token: 7076705214:AAGac1F_UM7wbCDiFZ9x89Lfk44ES_ivY08
-    username: solar_nature_questionaire_bot
+    token: 
+    username: 
   file-storage:
     root-path: /Users/vcuv/PROJECTS/filestorage/solar_nature_bot
